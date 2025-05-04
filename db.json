@@ -16,51 +16,107 @@
   "events": [
     {
       "id": "c96b",
-      "event_name": "Dynamox 2.0",
+      "event_name": "Dynamox Summit 2026",
       "date_time": "2026-10-10T10:10",
       "location": "avenida jorge lacerda 1907",
-      "description": "avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, ",
+      "description": "Workshop técnico realizado pela Dynamox em SC. Conexões entre empresas e startups inovadoras",
       "category": "Workshop"
     },
     {
       "id": "c2a3",
-      "event_name": "Albace Event",
+      "event_name": "Albace Workshop",
       "date_time": "2023-10-10T10:10",
       "location": "avenida jorge lacerda 1907",
-      "description": "avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, ",
+      "description": "Capacitação técnica oferecida pela Albace Ltda. Conexões entre empresas e startups inovadoras",
       "category": "Workshop"
     },
     {
       "id": "c1a3",
-      "event_name": "VibraTech",
+      "event_name": "VibraTech Webinar 2021",
       "date_time": "2021-10-10T10:10",
       "location": "avenida jorge lacerda 1907",
-      "description": "avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, ",
+      "description": "Webinar sobre sensores de vibração industrial. Conexões entre empresas e startups inovadoras ",
       "category": "Webinar"
     },
     {
       "id": "x1a7",
-      "event_name": "MachineTech Event",
+      "event_name": "MachineTech Conference",
       "date_time": "2027-10-10T10:10",
       "location": "avenida jorge lacerda 1907",
-      "description": "avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, ",
-      "category": "Workshop"
+      "description": "Conferência de tecnologia e manutenção preditiva. Conexões entre empresas e startups inovadoras",
+      "category": "Conferência"
     },
     {
       "id": "h69z",
-      "event_name": "Evento de tecnologia",
+      "event_name": "Tech Vision 2026",
       "date_time": "2026-10-10T10:10",
       "location": "avenida jorge lacerda 1907",
-      "description": "avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, ",
-      "category": "Workshop"
+      "description": "Discussões sobre o futuro da indústria nacional. Conexões entre empresas e startups inovadoras",
+      "category": "Conferência"
     },
     {
       "id": "z39z",
-      "event_name": "Evento de tecnologia",
+      "event_name": "InovaTech 2026",
       "date_time": "2026-10-10T10:10",
       "location": "avenida jorge lacerda 1907",
-      "description": "avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, avenida jorge lacerda 1907, ",
+      "description": "Tecnologia e inovação voltadas à indústria 4.0.Conexões entre empresas e startups inovadoras",
       "category": "Outro"
+    },
+    {
+      "id": "a100",
+      "event_name": "Smart Industry 2027",
+      "date_time": "2027-04-15T09:00",
+      "location": "Rua da Indústria, 500",
+      "description": "Feira sobre automação, sensores e processos. Conexões entre empresas e startups inovadoras",
+      "category": "Conferência"
+    },
+    {
+      "id": "a101",
+      "event_name": "Tech4Future",
+      "date_time": "2026-12-01T14:00",
+      "location": "Centro de Eventos SC",
+      "description": "Debates sobre tecnologia, IA e sustentabilidade. Conexões entre empresas e startups inovadoras",
+      "category": "Conferência"
+    },
+    {
+      "id": "a102",
+      "event_name": "Manufatura Inteligente",
+      "date_time": "2026-11-20T08:30",
+      "location": "Auditório Sul",
+      "description": "Painéis sobre inovação e manufatura inteligente. Conexões entre empresas e startups inovadoras",
+      "category": "Conferência"
+    },
+    {
+      "id": "a103",
+      "event_name": "Automação Avançada",
+      "date_time": "2026-09-25T16:00",
+      "location": "Av. das Tecnologias, 321",
+      "description": "Evento técnico sobre automação e controle. Conexões entre empresas e startups inovadoras",
+      "category": "Workshop"
+    },
+    {
+      "id": "i200",
+      "event_name": "Engenharia 2022",
+      "date_time": "2022-06-15T10:00",
+      "location": "Bloco A, Univ. Federal",
+      "description": "Discussões técnicas em engenharia mecânica. Conexões entre empresas e startups inovadoras",
+      "category": "Conferência"
+    },
+    {
+      "id": "i201",
+      "event_name": "Expo Tech 2023",
+      "date_time": "2023-03-10T09:30",
+      "location": "Expo Center Norte",
+      "description": "Exposição com foco em inovação e robótica. Conexões entre empresas e startups inovadoras",
+      "category": "Outro"
+    },
+    {
+      "id": "i202",
+      "event_name": "Conexão Inovação",
+      "date_time": "2021-12-05T11:00",
+      "location": "Centro de Inovação Joinville",
+      "description": "Conexões entre empresas e startups inovadoras. Conexões entre empresas e startups inovadoras ",
+      "category": "Networking"
     }
   ]
 }
